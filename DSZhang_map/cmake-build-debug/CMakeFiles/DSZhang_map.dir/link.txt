@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DSZhang_map.dir/main.cpp.o  -o DSZhang_map 

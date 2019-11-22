@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dqn/CLionProjects/DSZhang_map/SDK/SDK_C++/CodeCraft-2019/CodeCraft-2019.cpp
+iostream
+/home/dqn/CLionProjects/DSZhang_map/SDK/SDK_C++/CodeCraft-2019/iostream
+

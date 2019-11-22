@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dqn/CLionProjects/Files_class/FilesIO.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
+/home/dqn/CLionProjects/Files_class/Process.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
+/home/dqn/CLionProjects/Files_class/main.cpp
+iostream
+-
+FilesIO.h
+/home/dqn/CLionProjects/Files_class/FilesIO.h
+Process.h
+/home/dqn/CLionProjects/Files_class/Process.h
+

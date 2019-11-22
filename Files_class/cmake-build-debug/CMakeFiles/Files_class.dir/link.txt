@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Files_class.dir/main.cpp.o CMakeFiles/Files_class.dir/FilesIO.cpp.o CMakeFiles/Files_class.dir/Process.cpp.o CMakeFiles/Files_class.dir/ChangeIO.cpp.o  -o Files_class 

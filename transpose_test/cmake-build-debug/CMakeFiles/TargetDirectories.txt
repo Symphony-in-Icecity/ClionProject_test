@@ -1,0 +1,3 @@
+/home/dqn/CLionProjects/transpose_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dqn/CLionProjects/transpose_test/cmake-build-debug/CMakeFiles/transpose_test.dir
+/home/dqn/CLionProjects/transpose_test/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dqn/CLionProjects/DSZhang_map/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+stdio.h
+-
+sstream
+-
+string.h
+-
+

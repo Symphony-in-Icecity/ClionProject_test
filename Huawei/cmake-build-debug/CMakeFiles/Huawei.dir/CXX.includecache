@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dqn/CLionProjects/Huawei/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+string
+-
+stdlib.h
+-
+time.h
+-
+unordered_map
+-
+

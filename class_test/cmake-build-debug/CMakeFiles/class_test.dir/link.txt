@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/class_test.dir/main.cpp.o CMakeFiles/class_test.dir/Spline.cpp.o CMakeFiles/class_test.dir/QuinticPolynomial.cpp.o CMakeFiles/class_test.dir/QuarticPolynomial.cpp.o  -o class_test 
